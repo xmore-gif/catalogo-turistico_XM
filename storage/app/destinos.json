@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "titulo": "Lago de Coatepeque",
+        "departamento": "Santa Ana",
+        "categoria": "Lago",
+        "precio": 15,
+        "descripcion": "Un hermoso lago de origen volcánico rodeado de naturaleza y paisajes.",
+        "ubicacion": "Santa Ana"
+    },
+    {
+        "id": 2,
+        "titulo": "El Tunco",
+        "departamento": "La Libertad",
+        "categoria": "Playa",
+        "precio": 10,
+        "descripcion": "Destino conocido por sus playas, atardeceres y ambiente turístico.",
+        "ubicacion": "La Libertad"
+    },
+    {
+        "id": 3,
+        "titulo": "Ruta de Las Flores",
+        "departamento": "Sonsonate",
+        "categoria": "Ruta turística",
+        "precio": 25,
+        "descripcion": "Ruta que conecta pueblos con paisajes naturales, gastronomía y cultura.",
+        "ubicacion": "Sonsonate"
+    },
+    {
+        "id": 4,
+        "titulo": "Parque Nacional El Boquerón",
+        "departamento": "San Salvador",
+        "categoria": "Naturaleza",
+        "precio": 10,
+        "descripcion": "Área natural ubicada en el volcán de San Salvador con vistas panorámicas.",
+        "ubicacion": "San Salvador"
+    }
+]
